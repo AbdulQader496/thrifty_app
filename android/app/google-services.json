@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084320471052",
+    "project_id": "thrifty-85e58",
+    "storage_bucket": "thrifty-85e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084320471052:android:195f603d95292d3f5f7629",
+        "android_client_info": {
+          "package_name": "flutterapp.thrifty_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084320471052-n3ae8j12m1168h43afa2e51p1bmh2f8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9yKIfyihDWYnAPskCo95au3zcL2bu8wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084320471052-n3ae8j12m1168h43afa2e51p1bmh2f8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
